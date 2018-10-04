@@ -22,7 +22,7 @@ Version: Python3
 pip3 install -r requirements.txt
 ```
 ## :dolphin:运行截图
-> - **如何获取登录后的Cookie**<br><br>
+> - **如何获取登录后的Cookie值**<br><br>
 ![enter image description here](Pic/find_cookie.png)
 
 > - **运行过程**<br><br>
